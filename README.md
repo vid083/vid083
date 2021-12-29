@@ -5,7 +5,7 @@
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### Hello 🙏🏻, I am Vidhya 👋
 
-- 🎯 Portfolio website: [Portfolio](https://vid083.github.io/digital_CV/)
+- 🎯 Portfolio website: [Portfolio](https://vid083.github.io/)
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
