@@ -24,7 +24,14 @@
 <br>
 
 ### Things I do:
+- Expert in developing Responsive web designs & Interactive user interfaces for web ✍️
+- Good knowledge in CSS3, HTML5, JavaScript, Bootstrap, React JS, Material UI , Nodejs and MySQL.
+- Proficient with Opensource libraries like axios.
+- React Hooks and Custom hooks.
+- Global State management (Context, Redux)
+- react-redux-thunk, react-redux-sagas 
+- Unit testing tool (Jest) 
+- Experience in integrating with backend (REST ) APIs
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Full stack Development ✍️
 - Machine Learning 🧐
 
